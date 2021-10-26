@@ -313,10 +313,10 @@ ul.cart-inner-info li {
 }
 
 .carousel-item.item2 {
-    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/gijocomanilla.png) no-repeat;
-    background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/gijocomanilla.png) no-repeat;
-    background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/gijocomanilla.png) no-repeat;
-    background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/gijocomanilla.png) no-repeat;
+    background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/WhatsApp\ Image\ 2021-10-26\ at\ 12.12.37\ PM.jpeg) no-repeat;
+    background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/WhatsApp\ Image\ 2021-10-26\ at\ 12.12.37\ PM.jpeg) no-repeat;
+    background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/WhatsApp\ Image\ 2021-10-26\ at\ 12.12.37\ PM.jpeg) no-repeat;
+    background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/WhatsApp\ Image\ 2021-10-26\ at\ 12.12.37\ PM.jpeg) no-repeat;
     background-size: 100% 99%;
 }
 
@@ -1227,7 +1227,7 @@ input#datepicker {
 .payment-online-form-left input[type="text"]:hover,
 .payment-online-form-left textarea:hover {
     border-color: #636465;
-    color: #5c5c5d;
+    color: #5c5c5d; 
 }
 
 .payment-date-section {
@@ -1235,7 +1235,7 @@ input#datepicker {
 }
 
 .payment-sendbtns {
-    float: right;
+git    float: right;
     margin: 1em 0 0 0;
 }
 
