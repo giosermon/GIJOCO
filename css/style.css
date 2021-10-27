@@ -1916,7 +1916,7 @@ ul.links li a:hover {
 
 @media(max-width:991px) {
     .banner_inner {
-        background: currentColor;
+        background: url(../images/imagen.jpeg);
         background-size: cover;
         -webkit-background-size: cover;
         -o-background-size: cover;
