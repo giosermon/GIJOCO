@@ -880,6 +880,7 @@ p.paragraph {
 
 .team-img {
 	position: relative;
+    height: 180px;
 }
 
 .team-img:after {
@@ -899,6 +900,7 @@ p.paragraph {
 	display: block;
 	margin: 0 auto;
 	text-align: center;
+    height: 180px;
 }
 
 .team-info {
@@ -1414,7 +1416,7 @@ a.b-home:hover {
 }
 /*-- //error --*/
 .middle-text-info {
-    background: url(../images/banner-mid.jpg) no-repeat 0px 0px;
+    background:  url(../images/ManillaBeatcoinGold\ \(1\.png);
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -2131,19 +2133,21 @@ ul.links li a:hover {
 @media(max-width:736px) {
    .modal-body h3 {
        font-size: 1.4em;
+       height: 180px;
     }
     .team-grid img {
         width: 100%;
+        
     }
     .team-main-gd {
-        float: left;
+        float: center;
         width: 50%;
     }
     .team-img:after {
         bottom: 0;
         left: 0;
         width: 100%;
-        height: 50%;
+        height: 180px;
     }
 }
 
