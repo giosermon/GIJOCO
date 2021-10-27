@@ -1416,7 +1416,7 @@ a.b-home:hover {
 }
 /*-- //error --*/
 .middle-text-info {
-    background:  url(../images/ManillaBeatcoinGold\ \(1\.png);
+    background-color: #f5deb3;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -1430,7 +1430,7 @@ a.b-home:hover {
 }
 h3.tittle-w3layouts.two{
     font-weight:300;
-    color:#fff;
+    color: #000;
     letter-spacing:10px;
 }
 .testimonials_grid h3 {
@@ -1446,14 +1446,14 @@ h3.tittle-w3layouts.two{
 .testimonials_grid h3 span {
     font-weight: 100;
     font-size: 0.8em;
-    color: #888;
+    color: rgb(0, 0, 0);
 }
 .testimonials_grid p {
     width: 70%;
     margin: 1em auto 0;
     line-height: 2em;
     letter-spacing: 1px;
-    color: #959596;
+    color: #000000;
 }
 div#carouselExampleControls .carousel-item {
     background: none;
@@ -1916,7 +1916,7 @@ ul.links li a:hover {
 
 @media(max-width:991px) {
     .banner_inner {
-        background: url(../images/banner4.jpg)no-repeat 0px -20px;
+        background: currentColor;
         background-size: cover;
         -webkit-background-size: cover;
         -o-background-size: cover;
